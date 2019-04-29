@@ -1,4 +1,4 @@
-package com.easymusic.pojo;
+package com.easymusic.common.pojo;
 
 public class MyMusic implements java.io.Serializable {
 

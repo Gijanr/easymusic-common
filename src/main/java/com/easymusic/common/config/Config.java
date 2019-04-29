@@ -1,4 +1,4 @@
-package com.easymusic.util;
+package com.easymusic.common.config;
 
 import java.util.HashMap;
 import java.util.Map;

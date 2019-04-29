@@ -1,4 +1,4 @@
-package com.easymusic.util;
+package com.easymusic.common.util;
 
 /**
  * 状态码常量

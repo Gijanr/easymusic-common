@@ -1,4 +1,4 @@
-package com.easymusic.pojo;
+package com.easymusic.common.pojo;
 
 public class MusicLink implements java.io.Serializable {
 
