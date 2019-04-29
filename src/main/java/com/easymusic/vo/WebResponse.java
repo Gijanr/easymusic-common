@@ -1,6 +1,8 @@
-package com.easymusic.util;
+package com.easymusic.vo;
 
 import org.springframework.stereotype.Component;
+
+import com.easymusic.util.Config;
 
 @Component("webResponse")
 public class WebResponse {

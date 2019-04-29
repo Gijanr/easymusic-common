@@ -1,6 +1,8 @@
 package com.easymusic.pojo;
 
 public class MyMusic implements java.io.Serializable {
+
+	private static final long serialVersionUID = 1L;
 	private Integer my_id;
 	private String my_songName;
 	private String my_singer;

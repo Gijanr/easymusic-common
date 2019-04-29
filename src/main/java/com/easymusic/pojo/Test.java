@@ -1,15 +1,8 @@
-/** 
-* 
-* @author linliquan 
-* @data 2018年12月23日 00:03:48  
-*/
-
 package com.easymusic.pojo;
 
-import java.math.BigDecimal;
-import java.util.Date;
-
 public class Test implements java.io.Serializable {
+
+	private static final long serialVersionUID = 1L;
 	private Integer testId; // 测试ID
 	private String testName; // 测试名称
 	private String info; // 测试名称

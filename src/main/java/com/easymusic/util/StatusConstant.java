@@ -1,10 +1,7 @@
 package com.easymusic.util;
 
 /**
- * @author linliquan
- * @version
- * @since JDK 1.8
- * @see
+ * 状态码常量
  */
 public class StatusConstant {
 	

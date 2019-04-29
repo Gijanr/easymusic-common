@@ -1,6 +1,8 @@
 package com.easymusic.pojo;
 
 public class MusicLink implements java.io.Serializable {
+
+	private static final long serialVersionUID = 1L;
 	private Integer ml_id;
 	private String ml_songName;
 	private String ml_singer;

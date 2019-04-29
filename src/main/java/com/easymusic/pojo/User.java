@@ -1,6 +1,8 @@
 package com.easymusic.pojo;
 
 public class User implements java.io.Serializable {
+
+	private static final long serialVersionUID = 1L;
 	public Integer user_id;
 	public String user_name;
 	public String user_password;
